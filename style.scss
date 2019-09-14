@@ -1,0 +1,5 @@
+@import 'small-default';
+
+@media screen and (min-width: 35em) {
+    @import 'medium';
+}
